@@ -15,7 +15,7 @@ const App = () => {
     </h1>
     <div className="mt=10 pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden" href="login">
       <Button className={"mt-10"} px={"px-7"} white>
-        LoL  
+        Main  
       </Button>
     </div>
       < ButtonGradient/>
